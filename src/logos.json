@@ -1,0 +1,60 @@
+{
+    "id": 1,
+    "name": "Apple", 
+    "imagePath":"../images/Apple-Logo-Design.png"
+},
+{
+    "id": 2,
+    "name": "BP", 
+    "imagePath":"../images/BP-Logo-Design.png"
+},
+{
+    "id": 3,
+    "name": "Burger King", 
+    "imagePath":"../images/Burger-King-Logo-Design.png"
+},
+{
+    "id": 4,
+    "name": "Dell", 
+    "imagePath":"../images/Dell-Logo-Design.png"
+},
+{
+    "id": 5,
+    "name": "HP", 
+    "imagePath":"../images/Hewlett-Packard-Logo-Design.png"
+},
+{
+    "id": 6,
+    "name": "McDonalds", 
+    "imagePath":"../images/McDonalds-Logo-Design.png"
+},
+{
+    "id": 7,
+    "name": "Mitsubishi", 
+    "imagePath":"../images/Mitsubishi-Logo-Design.png"
+},
+{
+    "id": 8,
+    "name": "Nestle", 
+    "imagePath":"../images/Nestle-Logo-Design.png"
+},
+{
+    "id": 9,
+    "name": "Pepsi", 
+    "imagePath":"../images/Pepsi-Logo-Design.png"
+},
+{
+    "id": 10,
+    "name": "Twitter", 
+    "imagePath":"../images/Twitter-Logo-Design.png"
+},
+{
+    "id": 11,
+    "name": "VW", 
+    "imagePath":"../images/Volkswagen-Logo-Design.png"
+},
+{
+    "id": 12,
+    "name": "Disney", 
+    "imagePath":"../images/Walt-Disney-Logo-Design.png"
+}

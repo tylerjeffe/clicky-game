@@ -1,26 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import React, { Component } from "react";
+import Blocks from "./components/Blocks.js";
+import Header from "./components/Header.js";
+import logos from "./logos.json";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+class App extends Component {
+  // Setting this.state.friends to the friends json array
+ state = {
+   logos
+ };
+
+  render() {
+    return (
+      <Header />
+        {this.state.logos.map(logo => (
+          <Blocks 
+            name={logo.name}
+            imagePath={logo.imagePath}
+          />
+    ))}
   );
+}
+
 }
 
 export default App;
