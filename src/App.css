@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -7,6 +8,24 @@
   height: 40vmin;
   pointer-events: none;
 }
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.bigContainer{
+  align-content: center
+}
+
+.container{
+  display: inline-block
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
 
 .App-header {
   background-color: #282c34;
@@ -19,19 +38,36 @@
   color: white;
 }
 
+.jumbotron{
+  background: lightskyblue;
+  text-align: center
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.footer {
+  min-height: 100px;
+  background: #E5E5E5;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: #B8B8B8;
 }
 
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 325px;
+  height: 200px;
   margin: 1rem;
   position: relative;
-  width: 325px;
+  width: 200px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-  text-align: left;
+  display: inline-block;
+  align-content: center
 }
 
 .card > .img-container {

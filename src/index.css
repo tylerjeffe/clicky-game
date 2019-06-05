@@ -47,6 +47,10 @@ code {
   top: 25%;
 }
 
+.content{
+  align-content: center;
+}
+
 * {
   box-sizing: border-box;
 }
