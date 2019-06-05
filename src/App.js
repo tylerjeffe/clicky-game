@@ -17,9 +17,9 @@ class App extends Component {
     showImage: false,
   };
 
-  handleClick = (score, ) => {
+  handleClick = (score) => {
     this.setState({
-      score,
+      score
     });
     console.log("clicked");
   };
@@ -41,6 +41,7 @@ class App extends Component {
                 name={logo.name}
                 key={logo.id}
                 image={logo.image}
+                handleClick={this.handleClick}
                 
               />
             ))}

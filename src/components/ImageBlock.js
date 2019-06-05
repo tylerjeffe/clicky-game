@@ -25,7 +25,7 @@ function ImageBlock(props) {
     
       <div className="card">
         <div className="img-container">
-          <img alt={props.name} src={props.image} onClick={props.handleClick()} id={props.id} />
+          <img alt={props.name} src={props.image} onClick={props.handleClick} id={props.id} />
         </div>
       </div>
   
