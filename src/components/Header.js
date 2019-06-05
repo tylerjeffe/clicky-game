@@ -3,11 +3,11 @@ import React from "react";
 function Header(props) {
   return (
     <div>
-      <nav class="navbar">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <ul>
           <li>Logo Memory Game</li>
-          <li class="status" />
-          <li class="scoreboard" />
+          <li className="status" />
+          <li className="scoreboard" />
         </ul>
       </nav>
     </div>

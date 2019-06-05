@@ -1,60 +1,62 @@
-{
+[
+  {
     "id": 1,
-    "name": "Apple", 
-    "imagePath":"../images/Apple-Logo-Design.png"
-},
-{
+    "name": "Apple",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwit2oq0m9HiAhUM658KHXEGBRMQjRx6BAgBEAU&url=http%3A%2F%2Fwww.shareicon.net%2Fapple-logo-112650&psig=AOvVaw3z8pGMZehNHlnKhjyCsWB7&ust=1559785309955750"
+  },
+  {
     "id": 2,
-    "name": "BP", 
-    "imagePath":"../images/BP-Logo-Design.png"
-},
-{
+    "name": "BP",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwji4rvNm9HiAhWNwMQHHaLzCRoQjRx6BAgBEAU&url=http%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fbp-ventures&psig=AOvVaw0A6z4lU5wcoR9mTYYRVERp&ust=1559785407130719"
+  },
+  {
     "id": 3,
-    "name": "Burger King", 
-    "imagePath":"../images/Burger-King-Logo-Design.png"
-},
-{
+    "name": "Burger King",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjjuMzam9HiAhWOCnwKHdKiAoQQjRx6BAgBEAU&url=http%3A%2F%2Fwww.appannie.com%2Fen%2Fapps%2Fios%2Fapp%2F1233020916%2F&psig=AOvVaw1Bvb8AGdAXFtHMRnT3kysG&ust=1559785435605007"
+  },
+  {
     "id": 4,
-    "name": "Dell", 
-    "imagePath":"../images/Dell-Logo-Design.png"
-},
-{
+    "name": "Dell",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjh4PLnm9HiAhWosFQKHaFfDmMQjRx6BAgBEAU&url=http%3A%2F%2Ficonscout.com%2Ficon%2Fdell-4&psig=AOvVaw2ENIx-VgS9CPuKaEYb3PSa&ust=1559785464987540"
+  },
+  {
     "id": 5,
-    "name": "HP", 
-    "imagePath":"../images/Hewlett-Packard-Logo-Design.png"
-},
-{
+    "name": "HP",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiaoNz4m9HiAhVlMnwKHdIVDOgQjRx6BAgBEAU&url=http%3A%2F%2Fwww.myiconfinder.com%2Ficon%2Fhp-logo-brand%2F16500&psig=AOvVaw3XcKylJjx210jFltBZBhlO&ust=1559785501976559"
+  },
+  {
     "id": 6,
-    "name": "McDonalds", 
-    "imagePath":"../images/McDonalds-Logo-Design.png"
-},
-{
+    "name": "McDonalds",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjRmfGBnNHiAhWKwFQKHXG0C1sQjRx6BAgBEAU&url=http%3A%2F%2Ficonscout.com%2Ficon%2Fmcdonalds-2&psig=AOvVaw034OoPxJG3j__Wo8kx4eRb&ust=1559785521821063"
+  },
+  {
     "id": 7,
-    "name": "Mitsubishi", 
-    "imagePath":"../images/Mitsubishi-Logo-Design.png"
-},
-{
+    "name": "Mitsubishi",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjQpL6OnNHiAhVXwcQHHR6SB-wQjRx6BAgBEAU&url=http%3A%2F%2Ficonscout.com%2Ficon%2Fmitsubishi-4&psig=AOvVaw3AxPv-ORtcAQQwiFZxdeLi&ust=1559785547112938"
+  },
+  {
     "id": 8,
-    "name": "Nestle", 
-    "imagePath":"../images/Nestle-Logo-Design.png"
-},
-{
+    "name": "Nestle",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi9iduZnNHiAhVijlQKHQgkBPAQjRx6BAgBEAU&url=http%3A%2F%2Ficonscout.com%2Ficon%2Fnestle-7&psig=AOvVaw21X-3NGc4GUqR60qb_5mR4&ust=1559785570053498"
+  },
+  {
     "id": 9,
-    "name": "Pepsi", 
-    "imagePath":"../images/Pepsi-Logo-Design.png"
-},
-{
+    "name": "Pepsi",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjNqdmnnNHiAhVHjVQKHXj5AFQQjRx6BAgBEAU&url=http%3A%2F%2Fwww.iconfinder.com%2Fsearch%2F%3Fq%3DPepsi&psig=AOvVaw2SJwDYiS9R61ipMCBbpI__&ust=1559785600760882"
+  },
+  {
     "id": 10,
-    "name": "Twitter", 
-    "imagePath":"../images/Twitter-Logo-Design.png"
-},
-{
+    "name": "Twitter",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiXy6WwnNHiAhUnsFQKHUd-BPAQjRx6BAgBEAU&url=http%3A%2F%2Froctechage.org%2Ftwitter-logo-4%2F&psig=AOvVaw2NCKnh0jWiftz2P0RNwNph&ust=1559785618910825"
+  },
+  {
     "id": 11,
-    "name": "VW", 
-    "imagePath":"../images/Volkswagen-Logo-Design.png"
-},
-{
+    "name": "VW",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiE6oi-nNHiAhVCllQKHdQ6DgoQjRx6BAgBEAU&url=http%3A%2F%2Fgamebanana.com%2Fsprays%2F27665&psig=AOvVaw3ZIe6UXOtKrzeU9aAosEFn&ust=1559785648002823"
+  },
+  {
     "id": 12,
-    "name": "Disney", 
-    "imagePath":"../images/Walt-Disney-Logo-Design.png"
-}
+    "name": "Disney",
+    "image": "http://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjJ2IbJnNHiAhVIsVQKHZDMC6wQjRx6BAgBEAU&url=http%3A%2F%2Ficonscout.com%2Ficon%2Fdisney&psig=AOvVaw3aKab7jQiwS2QayEGPqnDz&ust=1559785669100912"
+  }
+]

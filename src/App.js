@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { Component } from "react";
-import Blocks from "./components/Blocks.js";
+import ImageBlock from "./components/ImageBlock.js";
 import Header from "./components/Header.js";
 import Jumbotron from "./components/Jumbotron.js"
 import logos from "./logos.json";
@@ -8,10 +8,11 @@ import logos from "./logos.json";
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-		score: 0
+    score: 0,
+    logos
   };
   
-	shuffleBoard = (score, correctGuess, incorrectGuess) => {
+	handleClick = (score, correctGuess, incorrectGuess) => {
 		this.setState({
 			score,
 			correctGuess,
@@ -24,7 +25,14 @@ class App extends Component {
 			<div>
 				<Header />
 				<Jumbotron {...this.state} />
-				<Blocks handleClickChange={this.handleClickChange} />
+        {this.state.logos.map(logo => (
+          <ImageBlock
+            id={logo.id}
+            name={logo.name}
+            key={logo.id}
+            image={logo.image}
+          />
+        ))}
 				
 			</div>
 		);
